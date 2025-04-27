@@ -1,0 +1,19 @@
+tarea
+
+investigar mas a fondo los tipos de funciones y alcances en javascript
+funciones con parametros
+sin parametros 
+con retorno
+con mas de un argumento
+con valores por defecto
+ 
+ver si existen estas o si hay otras (o tienen otro nombre/sinonimo) y cuales son las mas importantes y usadas.
+
+ver si javascript soporta llamar funciones dentro de funciones. (esto es parte del ejercici  o )
++
+ejercicio 2 
+
+
+una buena practica: 
+intentar restringir al maximo el ambito de todo nuestro codigo.
+ejemplo: para que definir una variable global , si solo la uso dentro del codigo(local).

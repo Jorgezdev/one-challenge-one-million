@@ -33,14 +33,14 @@ console.log(mensaje.length); // 6
 
 // 4. Concatenación
 // con `+`, `.concat()`, y Template Literals
-
+/* 
 ``````js
 let nombre = "Jorge";
 let saludo = "Hola, " + nombre;
 let otro = "¿Cómo estás?".concat(" Bien.");
 let template = `Hola, ${nombre}`;
 ``````
-
+*/
 
 // 5. Repetición
 // con `.repeat()`
@@ -100,7 +100,7 @@ let frutas = ["manzana", "pera", "uva"];
 console.log(frutas.join(" - ")); // "manzana - pera - uva"
 ```
 
-
+/* 
 
 //11. Interpolación de texto
 //con Template Literals `` `${}` ``
@@ -109,6 +109,7 @@ let nombre = "Jorge";
 let edad = 31;
 console.log(`Mi nombre es ${nombre} y tengo ${edad} años`);
 ```
+*/
 
 //12. Verificación
 // (varias formas)

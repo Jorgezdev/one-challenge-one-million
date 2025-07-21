@@ -107,4 +107,4 @@ cola.encolar("a");
 cola.encolar("b");
 cola.imprimir(); // ["a", "b"]
 cola.desencolar(); // Elimina "a"
-cola.imprimir(); // ["b"]
+cola.imprimir(); // ["b"];

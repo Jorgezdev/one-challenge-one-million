@@ -106,7 +106,7 @@ console.log(frutas.join(" - ")); // "manzana - pera - uva"
 //con Template Literals `` `${}` ``
 ```js
 let nombre = "Jorge";
-let edad = 31;
+let edad = 21;
 console.log(`Mi nombre es ${nombre} y tengo ${edad} años`);
 ```
 */

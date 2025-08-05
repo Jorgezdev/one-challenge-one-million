@@ -32,9 +32,9 @@ console.log(nombre.toUpperCase()); // "JORGE"
 // 1.2 Number (Números)
 // 📌 Uso: Cálculos matemáticos
 // 🔁 Frecuencia: Muy alta
-let edad = 31;
+let edad = 21;
 let suma = edad + 5;
-console.log(suma); // 36
+console.log(suma); // 26
 
 // 1.3 Boolean (Verdadero/Falso)
 // 📌 Uso: Lógica condicional
@@ -72,7 +72,7 @@ console.log(user[ID]); // 123
 // 2.1 Object (Objetos)
 // 📌 Uso: Representación de datos estructurados
 // 🔁 Frecuencia: Muy alta
-let persona = { nombre: "Jorge", edad: 31 };
+let persona = { nombre: "Jorge", edad: 21 };
 console.log(persona.nombre); // "Jorge"
 
 // 2.2 Array (Arreglos)

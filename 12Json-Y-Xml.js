@@ -48,8 +48,8 @@ const xml2js = require('xml2js'); // Asegúrate de instalar: npm install xml2js
 // Datos de ejemplo
 const persona = {
   nombre: 'Jorge Zavala',
-  edad: 31,
-  nacimiento: '1993-04-10',
+  edad: 21,
+  nacimiento: '2007-04-10',
   lenguajes: ['JavaScript', 'Python', 'C++']
 };
 
